@@ -13,7 +13,7 @@
 
 	<properties>
 		<bookkeeper.version>0.1.0-SNAPSHOT</bookkeeper.version>
-		<jackson.version>2.9.8</jackson.version>
+		<jackson.version>2.9.10.7</jackson.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<d1_libclient_java.version>2.4.0-SNAPSHOT</d1_libclient_java.version>
         <renjin.version>0.8.2242</renjin.version>
