@@ -155,7 +155,7 @@
 		<dependency>
 			<groupId>org.apache.solr</groupId>
 			<artifactId>solr-core</artifactId>
-			<version>7.5.0</version>
+			<version>8.8.2</version>
 		</dependency>
 		<!-- httpclient 4.5.5 is needed by solrj 7.2.1 but the solrj pom only loads
 		     httpclient 4.5.3, so this dependency is included here. If this version is not included,
